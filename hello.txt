@@ -1,6 +1,6 @@
 hello world!master
 hello world!hot-fix
-hello world!
+hello world!  罗斌最帅！！！
 hello world!
 hello world!
 hello world!
@@ -19,4 +19,4 @@ update
 update1
 master test
 github edit
-lhc commit
+lhc commit  
